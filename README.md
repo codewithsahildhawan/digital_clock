@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/codewithsahildhawan/digital_clock">
-    <img src="img/project-image.jpg" alt="Logo" width="80" height="80">
+    <img src="img/project-image.jpg" alt="Logo" width="500" height="500">
   </a>
 
   <h3 align="center">Digital Clock</h3>
